@@ -1,0 +1,134 @@
+
+.logo-img{
+    width: 150px;
+}
+header{
+    padding-top: 15px;
+    background: #F0FFF0;
+    background-size: cover;
+    
+}
+.header, .topic, .course,.test{
+    margin-bottom: 90px;
+   
+}
+.sign-in{
+    background: #21B573;
+    border-radius: 33px;
+    padding: 10px 30px;
+    border: none;
+}
+.nav-item{
+    margin-left: 40px;
+
+}
+.banner{
+    padding: 50px 10px;
+}
+.banner-qstn{
+    color: #FD511A;
+}
+.w-img{
+    width: 85%;
+}
+.banner-p{
+    color: #6C6B6B;
+}
+.banner h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.banner p, h1, button{
+    margin-bottom: 20px;
+
+}
+.get-started{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 5px 20px;
+    color: white;
+}
+.width-img{
+    width: 19%;
+    margin: 20px auto;
+    margin-top: 40px;
+}
+
+
+.cat-1{
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat-2{
+    background: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat-3{
+    background: #E5E5E5;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat-4{
+    background: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card2{
+    margin-top: 40px;
+    background-color: white;
+}
+.width-img2{
+    width: 90%;
+    margin: 15px 18px;
+}
+.outline{
+    width: 20px;
+}
+.outline-text{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.card-box{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+
+.testimonial{
+    width: 70%;
+    /*border: 2px solid black;*/
+    padding: 20px;
+    margin-top: 50px;
+}
+.w-img{
+    width: 50%;
+}
+.summary{
+    padding: 30px;
+}
+.summary1{
+    background: #282531;
+    height: 100%;
+}
+.summary p{
+    font-size: 14px;
+}
+.sum-p{
+    font-size: 16px !important;
+}
+.article{
+    margin-bottom: 50px;
+}
+#footer{
+    margin-bottom: 0px;
+}
